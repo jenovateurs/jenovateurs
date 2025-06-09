@@ -1,26 +1,28 @@
-# 👋 Bienvenue sur mon GitHub !
+[🇫🇷 En Français](README_FR.md)
 
-## 🌍 Jérémy Pastouret — Développeur engagé pour un numérique responsable
+# 👋 Welcome to my GitHub!
+
+## 🌍 Jérémy Pastouret — Developer Committed to Responsible Digital Technology
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-pastouret/)
-[![Site web](https://img.shields.io/badge/-les--enovateurs.com-000?style=flat&logo=firefox&logoColor=white)](https://les-enovateurs.com/)
+[![Website](https://img.shields.io/badge/-les--enovateurs.com-000?style=flat&logo=firefox&logoColor=white)](https://les-enovateurs.com/)
 
 ---
 
-## ✨ À propos
+## ✨ About Me
 
-👋 Je suis le **co-fondateur du média [Les e-novateurs](https://github.com/les-enovateurs)**, une association qui œuvre pour un **numérique plus éthique, responsable et accessible à tous**.
+👋 I am the **co-founder of the media outlet [Les e-novateurs](https://github.com/les-enovateurs)**, an association that works for a **more ethical, responsible, and accessible digital world**.
 
-🎯 Avec les e-novateurs, nous avons créé :
-- 📰 **Un média en ligne** pour comprendre l’impact environnemental du numérique et proposer des solutions concrètes : [les-enovateurs.com](https://les-enovateurs.com)
-- 🛠️ Des outils open source :
+🎯 With Les e-novateurs, we’ve created:
+- 📰 **An online media platform** to understand the environmental impact of digital technology and offer concrete solutions: [les-enovateurs.com](https://les-enovateurs.com)
+- 🛠️ Open source tools:
   - 🌐 [EcoSurfeur](https://github.com/les-enovateurs/estimate-good-website)
   - 📚 [EcoTech Knowledge](https://github.com/les-enovateurs/eco-tech-knowledge)
   - 🔐 [Unlock My Data](https://github.com/les-enovateurs/unlock-my-data)
   - 📱 [The Lasting Phone](https://github.com/les-enovateurs/the-lasting-phone)
   - ✉️ [Cleanup Web](https://github.com/les-enovateurs/cleanup-web)
 
-🤝 Je contribue aussi à des **communs numériques** dans le secteur public avec [Beta.gouv](https://github.com/betagouv/), comme [Aides Jeunes](https://github.com/betagouv/aides-jeunes).
+🤝 I also contribute to **digital commons** in the public sector with [Beta.gouv](https://github.com/betagouv/), such as [Aides Jeunes](https://github.com/betagouv/aides-jeunes).
 
 ---
 
@@ -37,33 +39,33 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Jamstack](https://img.shields.io/badge/-Jamstack-000?style=flat&logo=jamstack)
-![Eco-conception](https://img.shields.io/badge/-Éco--conception-228B22?style=flat&logo=leaflet&logoColor=white)
+![Eco-conception](https://img.shields.io/badge/-Eco--design-228B22?style=flat&logo=leaflet&logoColor=white)
 
 ---
 
-## 📰 Dernier article
+## 📰 Latest Article
 
-<!-- Ce badge est généré automatiquement depuis le flux RSS -->
-![Dernier article](https://raw.githubusercontent.com/jenovateurs/jenovateurs/main/.github/badges/latest-post.svg)
+<!-- This badge is automatically generated from the RSS feed -->
+![Latest article](https://raw.githubusercontent.com/jenovateurs/jenovateurs/main/.github/badges/latest-post.svg)
 
 ---
 
-## 🚀 Projets phares
+## 🚀 Highlighted Projects
 
-| Projet | Description |
+| Project | Description |
 |--------|-------------|
-| 🔐 [Unlock My Data](https://github.com/les-enovateurs/unlock-my-data) | Exercer ses droits numériques (RGPD) |
-| 🌿 [EcoSurfeur](https://github.com/les-enovateurs/estimate-good-website) | Estimer l’impact d’un site web |
-| 📚 [EcoTech Knowledge](https://github.com/les-enovateurs/eco-tech-knowledge) | Ressources sur le numérique responsable |
-| 📱 [The Lasting Phone](https://github.com/les-enovateurs/the-lasting-phone) | Comparatif de longévité des smartphones |
-| ✉️ [Cleanup Web](https://github.com/les-enovateurs/cleanup-web) | Qui vous envoie le plus d’e-mails lourds ? |
-| 🧑‍🎓 [Aides Jeunes](https://aides-jeunes.beta.gouv.fr) | Simulateur d’aides pour les jeunes |
+| 🔐 [Unlock My Data](https://github.com/les-enovateurs/unlock-my-data) | Exercise your digital rights (GDPR) |
+| 🌿 [EcoSurfeur](https://github.com/les-enovateurs/estimate-good-website) | Estimate the impact of a website |
+| 📚 [EcoTech Knowledge](https://github.com/les-enovateurs/eco-tech-knowledge) | Resources on responsible digital practices |
+| 📱 [The Lasting Phone](https://github.com/les-enovateurs/the-lasting-phone) | Smartphone longevity comparison |
+| ✉️ [Cleanup Web](https://github.com/les-enovateurs/cleanup-web) | Who sends you the heaviest emails? |
+| 🧑‍🎓 [Aides Jeunes](https://aides-jeunes.beta.gouv.fr) | Aid simulator for young people |
 
 ---
 
-## 💌 Suivez Les e-novateurs !
+## 💌 Follow Les e-novateurs!
 
-📢 **Soutenez le mouvement : suivez Les e-novateurs sur nos réseaux sociaux**  
+📢 **Support the movement: follow Les e-novateurs on our social media channels**  
 👉 [ttb.les-enovateurs.com/social.html](https://ttb.les-enovateurs.com/social.html)
 
 [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://ttb.les-enovateurs.com/social.html)
@@ -72,13 +74,13 @@
 
 ---
 
-## 📬 Me contacter
+## 📬 Contact Me
 
 📫 jeremy.pastouret [at] les-enovateurs [dot] com  
 💼 [linkedin.com/in/jeremy-pastouret](https://www.linkedin.com/in/jeremy-pastouret)
 
 ---
 
-> 💡 “Un numérique responsable est un numérique qui respecte les limites planétaires, les droits humains, et l’intérêt général.”
+> 💡 “Responsible digital technology respects planetary boundaries, human rights, and the public interest.”
 
-Merci de votre visite 👋
+Thanks for visiting 👋
