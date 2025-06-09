@@ -1,0 +1,27 @@
+name: 🔄 Update RSS Badge
+
+on:
+  schedule:
+    - cron: "0 4 * * *"  # toutes les heures
+  workflow_dispatch:
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate RSS Badge
+        uses: schmelto/rss-to-readme@v2
+        with:
+          feed_url: "https://les-enovateurs.com/rss/posts.rss"
+          file_path: ".github/badges/latest-post.svg"
+          readme_section: false
+          badge: true
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .github/badges/latest-post.svg
+          git commit -m "🔄 Update latest article badge"
+          git push
