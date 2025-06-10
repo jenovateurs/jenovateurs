@@ -11,7 +11,7 @@
 
 ## ✨ About Me
 
-👋 I am the **co-founder of the media outlet [Les e-novateurs](https://github.com/les-enovateurs)**, an association that works for a **more ethical, responsible, and accessible digital world**.
+👋 I am the **co-founder of the media [Les e-novateurs](https://github.com/les-enovateurs)**, an association that works for a **more ethical, responsible, and accessible digital world**.
 
 🎯 With Les e-novateurs, we’ve created:
 - 📰 **An online media platform** to understand the environmental impact of digital technology and offer concrete solutions: [les-enovateurs.com](https://les-enovateurs.com)
