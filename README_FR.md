@@ -43,13 +43,6 @@
 
 ---
 
-## 📰 Dernier article
-
-<!-- Ce badge est généré automatiquement depuis le flux RSS -->
-![Dernier article](https://raw.githubusercontent.com/jenovateurs/jenovateurs/main/.github/badges/latest-post.svg)
-
----
-
 ## 🚀 Projets phares
 
 | Projet | Description |
